@@ -1,0 +1,11 @@
+suburb,address,property_type,bedrooms,bathrooms,car_spaces,llm_estimate
+Epping,205/16 Epping Park Dr,Apartment,2,2,1.0,880000
+Epping,401/18 Cliff Rd,Apartment,2,2,1.0,900000
+Epping,51 Chester St,House,4,3,2.0,2150000
+Epping,408/3 Ferntree Pl,Unit,1,1,1.0,650000
+Parramatta,3637/180 George St,Apartment,1,1,0.0,620000
+Parramatta,41/3 Good St,Apartment,2,2,1.0,790000
+Parramatta,412/31-37 Hassall St,Unit,1,1,1.0,640000
+Liverpool,15/52 Speed St,Unit,2,1,1.0,540000
+Liverpool,24 Copeland St,Unit,2,1,1.0,550000
+Liverpool,32/19 Speed St,Unit,2,1,1.0,535000
