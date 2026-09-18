@@ -1,0 +1,13 @@
+feature,importance
+num__total_rooms,0.3257507773868575
+cat__suburb_Epping,0.19721160997659978
+num__bedrooms,0.16141958242039325
+num__is_house,0.12072390183999801
+cat__suburb_Liverpool,0.10777797135505539
+cat__property_type_House,0.058409643154450984
+num__bathrooms,0.011815661520450415
+num__amenity_score,0.00602997326117607
+cat__property_type_Unit,0.005497988780214638
+cat__property_type_Townhouse,0.0027088062822801587
+num__sale_month,0.0013220041675438448
+cat__property_type_Apartment,0.001070829720076844
